@@ -1,0 +1,28 @@
+Error logged: 2024-07-22 12:17:26 - [ 2 ]: Undefined array key "id" in file C:\xampp\htdocs\Material_Shop\html-php\shoppingCart.php on line 31
+Error logged: 2024-07-22 12:20:45 - [ 0 ]: <h2 style="text-align: center;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\Material_Shop\html-php\materialByCategoryAndSearch.php on line 29
+Error logged: 2024-07-22 12:20:45 - [ 0 ]: <h2 style="text-align: center;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\Material_Shop\html-php\materialByCategoryAndSearch.php on line 29
+Error logged: 2024-07-22 12:21:37 - [ 0 ]: <h2 style="text-align: center;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\Material_Shop\html-php\materialByCategoryAndSearch.php on line 29
+Error logged: 2024-07-22 12:22:15 - [ 0 ]: <h2 style="text-align: center;">Danger: use of special characters in the search field is not allowed</h2> in file C:\xampp\htdocs\Material_Shop\html-php\materialByCategoryAndSearch.php on line 29
+Error logged: 2024-07-22 12:22:15 - [ 0 ]: <h2 style="text-align: center;">Danger: use of special characters in the search field is not allowed</h2> in file C:\xampp\htdocs\Material_Shop\html-php\materialByCategoryAndSearch.php on line 29
+Error logged: 2024-07-22 12:22:36 - [ 0 ]: <h2 style="text-align: center;">Danger: use of special characters in the search field is not allowed!</h2> in file C:\xampp\htdocs\Material_Shop\html-php\materialByCategoryAndSearch.php on line 29
+Error logged: 2024-07-22 12:22:37 - [ 0 ]: <h2 style="text-align: center;">Danger: use of special characters in the search field is not allowed!</h2> in file C:\xampp\htdocs\Material_Shop\html-php\materialByCategoryAndSearch.php on line 29
+Error logged: 2024-07-22 12:23:28 - [ 2 ]: Undefined array key "id" in file C:\xampp\htdocs\Material_Shop\html-php\productDetails.php on line 6
+Error logged: 2024-07-22 12:23:39 - [ 2 ]: Undefined array key "id" in file C:\xampp\htdocs\Material_Shop\html-php\productDetails.php on line 6
+Error logged: 2024-07-23 18:23:12 - [ 2 ]: Undefined variable $address in file C:\xampp\htdocs\Material_Shop\html-php\orderSummary.php on line 144
+Error logged: 2024-07-23 18:26:09 - [ 2 ]: Undefined variable $address in file C:\xampp\htdocs\Material_Shop\html-php\orderSummary.php on line 144
+Error logged: 2024-07-23 18:26:54 - [ 2 ]: Undefined variable $address in file C:\xampp\htdocs\Material_Shop\html-php\orderSummary.php on line 147
+Error logged: 2024-07-23 18:28:42 - [ 2 ]: Undefined variable $address in file C:\xampp\htdocs\Material_Shop\html-php\orderSummary.php on line 96
+Error logged: 2024-07-23 19:20:54 - [ 0 ]: <h2 style="text-align: center;">Danger: use of special characters in the search field is not allowed!</h2> in file C:\xampp\htdocs\Material_Shop\html-php\materialByCategoryAndSearch.php on line 29
+Error logged: 2024-07-23 19:20:54 - [ 0 ]: <h2 style="text-align: center;">Danger: use of special characters in the search field is not allowed!</h2> in file C:\xampp\htdocs\Material_Shop\html-php\materialByCategoryAndSearch.php on line 29
+Error logged: 2024-07-23 19:55:45 - [ 2 ]: Undefined variable $id in file C:\xampp\htdocs\Material_Shop\html-php\addModifyProduct.php on line 101
+Error logged: 2024-07-23 19:55:59 - [ 2 ]: Undefined variable $id in file C:\xampp\htdocs\Material_Shop\html-php\addModifyProduct.php on line 101
+Error logged: 2024-07-23 19:56:09 - [ 2 ]: Undefined variable $id in file C:\xampp\htdocs\Material_Shop\html-php\addModifyProduct.php on line 101
+Error logged: 2024-07-23 19:56:54 - [ 2 ]: Undefined variable $id in file C:\xampp\htdocs\Material_Shop\html-php\addModifyProduct.php on line 101
+Error logged: 2024-07-23 19:58:46 - [ 2 ]: Undefined array key "productID" in file C:\xampp\htdocs\Material_Shop\html-php\productActions.php on line 11
+Error logged: 2024-07-23 20:13:36 - [ 8 ]: session_start(): Ignoring session_start() because a session is already active in file C:\xampp\htdocs\Material_Shop\html-php\registration.php on line 38
+Error logged: 2024-08-05 21:19:27 - [ 2 ]: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php:118) in file C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php on line 149
+Error logged: 2024-08-05 21:19:32 - [ 2 ]: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php:118) in file C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php on line 149
+Error logged: 2024-08-05 21:19:37 - [ 2 ]: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php:118) in file C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php on line 149
+Error logged: 2024-08-05 21:20:32 - [ 2 ]: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php:118) in file C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php on line 149
+Error logged: 2024-08-05 21:22:26 - [ 2 ]: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php:118) in file C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php on line 149
+Error logged: 2024-08-05 21:22:29 - [ 2 ]: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php:118) in file C:\xampp\htdocs\Material_Shop\html-php\shippingInfo.php on line 149

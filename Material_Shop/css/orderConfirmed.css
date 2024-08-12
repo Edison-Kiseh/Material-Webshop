@@ -1,0 +1,32 @@
+body{
+    background-image: url("../images/backgroundImage.jpeg");
+}
+
+.container-trui{
+    width: 50%;
+    background-color: rgb(235, 235, 235);
+    border-radius: 20px;
+    padding: 30px 50px;
+    margin: auto;
+}
+
+.parent{
+    margin-top: 160px;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 30px;
+}
+
+.container{
+    width: 50%;
+    margin-top: 30px;
+}
+
+.container a{
+    margin-right: 10px;
+}

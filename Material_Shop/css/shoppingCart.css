@@ -1,0 +1,56 @@
+body{
+    background-image: url("../images/grey-back.jpeg");
+}
+
+h1{
+    color: white;
+}
+
+table{
+    background-color: white;
+}
+
+tr img{
+    width: 150px;
+}
+
+table button{
+    width: 30px;
+}
+
+table {
+    margin-top: 50px;
+    /* text-align: center; */
+}
+
+td{
+    border: 0px;
+}
+
+thead{
+    background-color: rgb(209, 209, 209);
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bottom{
+    float: right;
+}
+
+.emptyInfo{
+    text-align: center;
+    padding: 50px;
+    background-color: white;
+    border-radius: 20px;
+    width: 60%;
+    margin: auto;
+    margin-top: 160px;
+    margin-bottom: 50px;
+}
+
+.button{
+    margin-left: 550px;
+}

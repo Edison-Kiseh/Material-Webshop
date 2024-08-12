@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+    border-radius: 20px;
+    width:60%;
+    padding: 20px;
+    background-color: white;
+}
+
+h2{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+
+.buttons{
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 650px;
+}
+
+body{
+    background-image: url("../images/grey-back.jpeg");
+}

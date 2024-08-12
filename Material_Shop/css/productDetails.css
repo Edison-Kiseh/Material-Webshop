@@ -1,0 +1,28 @@
+.container-trui{
+    background-image: url("../images/grey-back.jpeg");
+    min-height: 100vh;
+    padding: 50px 0;
+}
+
+.details{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin: auto;
+    background-color: #FCFAFA;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 5px 5px 5px grey;
+    flex-wrap: wrap; 
+}
+
+.details img{
+    width: 300px;
+    max-width: 100%; 
+    height: auto; 
+}
+
+.add{
+    width: 180px;
+    border-radius: 50px;
+}

@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/grey-back.jpeg");
+}
+
+.bottom{
+    display: flex; 
+    justify-content: space-between;
+}
+
+form{
+    width: 35%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.form-group{
+    margin-bottom: 20px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+}
+
+.login, .register, .addModify, .add{
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    padding: 7px 14px;
+    border-radius: 5px;
+}
